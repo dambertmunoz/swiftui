@@ -33,3 +33,9 @@ Select the `SwiftUIDemo` scheme and run on an iOS simulator.
 - This is a fundamentals repo, not an app architecture template.
 - Use it to explain SwiftUI state ownership and data flow.
 - In a modern SwiftUI app, the next step would be replacing the legacy scene delegate shell with the `@main App` lifecycle.
+
+## Author
+
+Dambert Muñoz
+
+Email: [dmsantillana2705@gmail.com](mailto:dmsantillana2705@gmail.com)
